@@ -7,6 +7,7 @@ Using basic Jframe as the GUI of the program, allowing users to interact with th
  - Remove button removes the selected entry in the table. <br />
  - Export button creates a "data.txt" document which contains the information stored in the table. <br />
  - Import button locates a "data.txt" document and reads the information into the table. <br />
+ - Each entry information can be edited by double clicking on the box in the table. <br />
 
 Notes for this version: 
 
