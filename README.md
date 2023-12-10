@@ -15,3 +15,14 @@ Notes for this version:
  - Exporting and Importing of information has to be done manually.
 
 -----
+
+**V1.1** <br />
+ - Improved from previous version by allowing the import function to automatically run on start of the program.
+ - Added the ablity for the program to automatically export stored information on closing of the program.
+ - Adjusted code
+
+Notes for this version: 
+
+ - Information stored in "data.txt" text document are still not secured. Allowing for simple reading of the document to gain access to all information.
+
+-----
