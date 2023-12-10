@@ -19,7 +19,7 @@ Notes for this version:
 **V1.1** <br />
  - Improved from previous version by allowing the import function to automatically run on start of the program.
  - Added the ablity for the program to automatically export stored information on closing of the program.
- - Adjusted code
+ - Adjusted and simplified code
 
 Notes for this version: 
 
