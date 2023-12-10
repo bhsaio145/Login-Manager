@@ -17,8 +17,9 @@ Notes for this version:
 -----
 
 **V1.1** <br />
- - Improved from previous version by allowing the import function to automatically run on start of the program.
- - Added the ablity for the program to automatically export stored information on closing of the program.
+Added export and import functions on start and closing of the program. <br />
+ - Import function added to the creation of the JFrame, allowing the program to automatically import from text document on boot of the code.
+ - Export function added to event listener for the closing of the window. Allows the program to automatically export to a text document on closing of the code.
  - Adjusted and simplified code
 
 Notes for this version: 
