@@ -27,3 +27,14 @@ Notes for this version:
  - Information stored in "data.txt" text document are still not secured. Allowing for simple reading of the document to gain access to all information.
 
 -----
+
+**V2.0** <br />
+Added encryption and decryption methods to the program, allowing safer storage of information which only the program can access. Program now utilizes an AES password based file encryption procedure.
+ - Set Password button added for users to change the "default" password.
+ - Fixed some null errors when pressing cancel on Dialog Prompts.
+
+Notes for this version:
+ - Error management in code needes to be improved, and researched upon.
+ - AES encryption utilized is file based, possible to catch the unencrypted file mid encryption and decryption.
+
+-----
